@@ -8,7 +8,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="[https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true](http://technoir.nl/post/44652440963/march2013-thematrix)" width="500" height="320" />
 
 **Back-end**
 
