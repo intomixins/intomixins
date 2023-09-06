@@ -2,6 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Backend Developer from Russia 🇷🇺</h3>
 
+[![Gmail Badge](https://img.shields.io/badge/-intomixins@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vbrn.mv@gmail.com)](mailto:vbrn.mv@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mikhail_vybornyy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/)](https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/) 
+[![Page Badge](https://img.shields.io/badge/CV-web-blue?style=flat&link=https://mishavyb.github.io//)](https://mishavyb.github.io/) 
+[![Telegram Badge](https://img.shields.io/badge/-intomixins-blue?style=social&logo=telegram&link=https://t.me/mishaviborniy)](https://t.me/mishaviborniy) <p align='left'>
+ 
+
 <!--
 **intomixins/intomixins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
