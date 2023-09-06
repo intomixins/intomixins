@@ -3,8 +3,6 @@
 <h3 align="center">Python Backend Developer from Russia 🇷🇺</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-intomixins@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:intomixins.mv@gmail.com)](mailto:intomixins@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-mikhail_vybornyy-0072b1?style=flat&logo=HH&logoColor=white&link=https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/)](https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/) 
-[![Page Badge](https://img.shields.io/badge/CV-web-blue?style=flat&link=https://mishavyb.github.io//)](https://mishavyb.github.io/) 
 [![Telegram Badge](https://img.shields.io/badge/-intomixins-blue?style=social&logo=telegram&link=https://t.me/intomixins)](https://t.me/intomixins) <p align='left'>
  
 
