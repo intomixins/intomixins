@@ -8,8 +8,8 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="[https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true](https://github.com/intomixins/intomixins/assets/139046617/97b2be0e-6277-47d5-ac34-24876cd7065f)" />
 
+<img align="right" alt="GIF" src="https://github.com/intomixins/intomixins/assets/139046617/97b2be0e-6277-47d5-ac34-24876cd7065f" />
 
 **Back-end**
 
