@@ -9,7 +9,7 @@
 ## Technology stack
 
 ![matrix](https://github.com/intomixins/intomixins/assets/139046617/cc31dcf6-3fe6-4649-be3e-483c2e0a2ebf)
-<img align="right" alt="GIF" src="[https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true](https://github.com/intomixins/intomixins/assets/139046617/cc31dcf6-3fe6-4649-be3e-483c2e0a2ebf)" />
+<img align="right" alt="GIF" src="[https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true](https://github.com/intomixins/intomixins/assets/139046617/cc31dcf6-3fe6-4649-be3e-483c2e0a2ebf)" width="500" height="320"/>
 
 
 **Back-end**
