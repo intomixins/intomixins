@@ -38,7 +38,4 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=intomixins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intomixins&layout=compact&count_private=true&theme=gruvbox)
-
 
